@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Ellahhh 👋</h1>
+<h1 align="left">Hi, I'm Emmanuella 👋🏾👩🏾‍💻</h1>
+<img width="100%" src="hello" alt="cover" />
 <h3 align="left">A Frontend Developer transitioning to Data Science.</h3>
 
-<!-- <p align="left"> <a href="https://twitter.com/_ellahhh__" target="blank"><img src="https://img.shields.io/twitter/follow/_ellahhh__?logo=twitter&style=for-the-badge" alt="_ellahhh__" /></a> </p> -->
 
 - 🔭 I’m currently working on **Myself👨‍💻**
 
