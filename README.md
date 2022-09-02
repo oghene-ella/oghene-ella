@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Emmanuella 👋🏾👩🏾‍💻</h1>
-<img width="100%" src="hello" alt="cover" />
+<img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/coverImg.png" alt="cover" />
 <h3 align="left">A Frontend Developer transitioning to Data Science.</h3>
 
 
