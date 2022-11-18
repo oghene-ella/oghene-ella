@@ -1,6 +1,6 @@
 <!-- <img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/coverimg.svg" alt="cover" /> -->
 <h1 align="left">Hello 👋🏾👩🏾‍💻</h1>
-<h3 align="left">A Frontend Developer transitioning to Data Science.</h3>
+<h3 align="left">A Data Analyst.</h3>
 
 
 - 🔭 I’m currently working on **Myself👨‍💻**
@@ -11,8 +11,8 @@
 
 <h3 align="left">Languages and Tools.</h3>
 <ol>
-<li>HTML, CSS, Tailwind CSS</li>
 <li>Python, JavaScript</li>
+<li>NumPy, Pandas, Seaborn, SQL, Power Bi</li>
 <li>Git, Github and Figma</li>
 
 </ol>
