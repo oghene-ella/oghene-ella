@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/oghene-ella](https://github.com/oghene-ella) -->
 
-- 📫 How to reach me **oghenekaro57@gmail.com**
+<!-- - 📫 How to reach me **oghenekaro57@gmail.com** -->
 <!-- 
 <h3 align="left">Languages and Tools.</h3>
 <ol>
