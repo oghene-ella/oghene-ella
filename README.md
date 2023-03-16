@@ -23,30 +23,5 @@
 
 
 
-<!-- <h3 align="left">A Data Analyst.</h3> -->
-
-
-<!-- - 🔭 I’m currently working on **Myself👨‍💻** -->
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/oghene-ella](https://github.com/oghene-ella) -->
-
-<!-- - 📫 How to reach me **oghenekaro57@gmail.com** -->
-<!-- 
-<h3 align="left">Languages and Tools.</h3>
-<ol>
-<li>Python, JavaScript</li>
-<li>NumPy, Pandas, Seaborn, SQL, Power Bi</li>
-<li>Git, Github and Figma</li>
-
-</ol> -->
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left">
-<a href="https://twitter.com/_ellahhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ellahhh__" height="30" width="40" /></a>
-<a href="https://kaggle.com/ellahhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ellahhh" height="30" width="40" /></a>
-<a href="https://dribbble.com/\ellyyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="\ellyyo" height="30" width="40" /></a>
-</p> -->
-
-
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oghene-ella&" alt="oghene-ella" /></p> -->
 
