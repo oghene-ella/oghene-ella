@@ -1,5 +1,14 @@
 <!-- <img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/coverimg.svg" alt="cover" /> -->
 <h1 align="left">Hello 👋🏾👩🏾‍💻</h1>
+<!-- <h3>Welcome to my Github Profile</h3>
+<p>My name is Oghenekaro Emmanuella, I'm a developer✨</p> -->
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&hide_progress=true)](https://github.com/oghene-ella/github-readme-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+
+
 <!-- <h3 align="left">A Data Analyst.</h3> -->
 
 
