@@ -3,7 +3,7 @@
 <h3>Welcome to my Github Profile</h3>
 <p>My name is Oghenekaro Emmanuella, I'm a developer✨</p>
 
-- 🔭 I’m currently working on <b>Myself👨‍💻</b>
+- 🔭 I’m currently working on <b>Myself 👩🏾‍💻</b>
 - 📫 How to reach me <a href = "mailto: oghenekaro57@gmail.com"><b>oghenekaro57@gmail.com</b></a>
 
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
