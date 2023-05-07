@@ -15,7 +15,7 @@
 
 <h3>Here are my Most used Programming language & Github Stat✨</h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ellahhh's github stats" /></a> | <a href="https://github.com/oghene-ella/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=tokyonight&hide_border=true" alt="Ellahhh's github stats" /></a> | <a href="https://github.com/oghene-ella/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
