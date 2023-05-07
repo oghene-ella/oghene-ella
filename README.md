@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/102 (3).png" alt="cover" />
+<img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/102.png" alt="cover" />
 <h1 align="left">Hello 👋🏾👩🏾‍💻</h1>
 <h3>Welcome to my Github Profile</h3>
 <p>My name is Oghenekaro Emmanuella, I'm a developer✨</p>
