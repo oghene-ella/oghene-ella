@@ -36,8 +36,12 @@
 
 <h3>Here are my Most used Programming language & Github Stat✨</h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=tokyonight&hide_border=true" alt="Ellahhh's github stats" /></a> | <a href="https://github.com/oghene-ella/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<table>
+    <tr>
+        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=tokyonight&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+    </tr>
+</table>
 
 
 <p>	&copy; Ellahhh, 2023❤️</p>
