@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/oghene-ella/oghene-ella"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/oghene-ella/oghene-ella/graphs/contributors"><img src="https://img.shields.io/github/contributors/oghene-ella/oghene-ella?color=blue"></a>
+    <a href="https://github.com/oghene-ella/oghene-ella"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
+    <a href="https://github.com/oghene-ella/oghene-ella/graphs/contributors"><img src="https://img.shields.io/github/contributors/oghene-ella/oghene-ella?color=blueviolet"></a>
     <a href="https://github.com/oghene-ella"><img src="https://img.shields.io/github/stars/oghene-ella.svg?color=blue&logo=github"></a>
-    <img src="https://gpvc.arturio.dev/oghene-ella" alt="profile views">
+    <img src="https://komarev.com/ghpvc/?username=oghene-ella&color=red&style=flat-square" alt="profile views">
 </p>
 
 <img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/102.png" alt="cover" />
