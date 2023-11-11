@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://github.com/oghene-ella/oghene-ella"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
-    <a href="https://github.com/oghene-ella/oghene-ella/graphs/contributors"><img src="https://img.shields.io/github/contributors/oghene-ella/oghene-ella?color=blueviolet"></a>
-    <a href="https://github.com/oghene-ella"><img src="https://img.shields.io/github/stars/oghene-ella.svg?color=blue&logo=github"></a>
-    <img src="https://komarev.com/ghpvc/?username=oghene-ella&color=red&style=flat-square" alt="profile views">
+    <a href="https://github.com/ellahhh-o/ellahhh-o"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
+    <a href="https://github.com/ellahhh-o/ellahhh-o/graphs/contributors"><img src="https://img.shields.io/github/contributors/ellahhh-o/ellahhh-o?color=blueviolet"></a>
+    <a href="https://github.com/ellahhh-o"><img src="https://img.shields.io/github/stars/ellahhh-o.svg?color=blue&logo=github"></a>
+    <img src="https://komarev.com/ghpvc/?username=ellahhh-o&color=red&style=flat-square" alt="profile views">
 </p>
 
-<img width="100%" src="https://github.com/oghene-ella/oghene-ella/blob/master/Images/102.png" alt="cover" />
+<img width="100%" src="https://github.com/ellahhh-o/ellahhh-o/blob/master/Images/102.png" alt="cover" />
 <h1 align="left">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3>Welcome to my Github Profile</h3>
 <p>My name is Oghenekaro Emmanuella, I'm a Developer✨</p>
@@ -37,8 +37,8 @@
 
 <table>
     <tr>
-        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=tokyonight&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
-        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ellahhh-o&show_icons=true&include_all_commit=true&theme=tokyonight&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellahhh-o&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
     </tr>
 </table>
 
