@@ -15,7 +15,7 @@
 
 - 😊 Pronouns: She/Her </br>
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.</br>
-- 🌱 I’m currently learning WordPress and React Js.</br>
+- 🌱 I’m currently learning Node Js and React Js.</br>
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.</br>
 - 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).</br>
 - 📫 How to reach me <a href = "mailto: oghenekaro57@gmail.com"><b>oghenekaro57@gmail.com</b></a>
