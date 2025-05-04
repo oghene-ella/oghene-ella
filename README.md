@@ -44,7 +44,7 @@
 <br/><br/>
 
 ## 😶‍🌫️ Networking✨
-- I am currently looking for summer & fall 2024 internship
+- I am currently looking for internships and fulltime roles
 - I am also looking to collaborate on open source projects, hackathons, internships and entry level opportunities.
 - Connect with me down below!
 <br/><br/>
