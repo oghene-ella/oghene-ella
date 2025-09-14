@@ -9,8 +9,6 @@
 ## 💕 Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 <p>My name is Emmanuella Oghenekaro, I'm a full-stack Developer. With a keen eye for detail and a passion for making a difference, I enjoy creating meaningful and impactful applications.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-oghenekaro_-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuella-oghenekaro/)](https://www.linkedin.com/in/emmanuella-oghenekaro/) 
-[![Twitter Badge](https://img.shields.io/badge/-@_ellahhh___-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_ellahhh__)](https://twitter.com/_ellahhh__)
 
 
 - 😊 Pronouns: She/Her </br>
@@ -52,8 +50,6 @@
 ## 📲🤙 Connect with me!✨
 Gmail: oghenekaro57[at]gmail[dot]com 
 
-Portfolio: https://ellahhh.me/
-<br/><br/>
 
 ## 🌼 Github Stats✨
 <table>
