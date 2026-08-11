@@ -54,7 +54,7 @@ Gmail: oghenekaro57[at]gmail[dot]com
 ## 🌼 Github Stats✨
 <table>
     <tr>
-        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=synthwave&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
-        <td rowspan="2" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghene-ella&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+        <td align="center"><img align="center" src="https://github-stats-extended.vercel.app/api?username=oghene-ella&show_icons=true&include_all_commit=true&theme=synthwave&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
+        <td rowspan="2" align="center"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oghene-ella&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Ellahhh's GitHub stats" /></td>
     </tr>
 </table>
